@@ -23,3 +23,9 @@ dataset/
 ## Usage
 ### 1. Train the model:
 - `python cnn_model.py`
+### 2. Make a prediction:
+- Place an image in the `single_prediction` folder and run the script.
+
+## Results
+- Training Accuracy: `~99%`
+- Test Accuracy: `~85%`
