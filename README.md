@@ -22,9 +22,11 @@ dataset/
   
 ## Usage
 ### 1. Train the model:
-- `python cnn_model.py`
+- Run the script to preprocess the data, build, train, and evaluate the CNN
+  
 ### 2. Make a prediction:
-- Place an image in the `single_prediction` folder and run the script.
+- To classify a single image, place the image in the `single_prediction` folder and specify its path in the script.
+- The result will be printed to the console.
 
 ## Results
 - Training Accuracy: `~99%`
