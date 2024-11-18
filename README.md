@@ -21,3 +21,5 @@ dataset/
 - `pip install -r requirements.txt`
   
 ## Usage
+1. Train the model:
+- `python cnn_model.py`
