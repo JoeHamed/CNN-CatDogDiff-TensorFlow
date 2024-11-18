@@ -15,11 +15,11 @@ dataset/
     └── dogs/  
     
 ## Installation
-1. Clone the repository:
+### 1. Clone the repository:
 - `git clone https://github.com/your-username/cnn-cat-dog-classification.git`
-2. Install the required libraries:
+### 2. Install the required libraries:
 - `pip install -r requirements.txt`
   
 ## Usage
-1. Train the model:
+### 1. Train the model:
 - `python cnn_model.py`
