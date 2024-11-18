@@ -16,7 +16,7 @@ dataset/
     
 ## Installation
 ### 1. Clone the repository:
-- `git clone https://github.com/JoeHamed/cnn-cat-dog-classification.git`
+- `git clone https://github.com/JoeHamed/CNN-CatDogDiff-TensorFlow.git`
 ### 2. Install the required libraries:
 - `pip install -r requirements.txt`
   
