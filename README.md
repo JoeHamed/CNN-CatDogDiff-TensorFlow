@@ -5,3 +5,11 @@
 - Preprocessing of images with ImageDataGenerator.
 - CNN model for binary classification.
 - Predict whether an image is a cat or a dog.
+## Dataset Structure
+dataset/  
+├── training_set/  
+│   ├── cats/  
+│   └── dogs/  
+└── test_set/  
+    ├── cats/  
+    └── dogs/  
