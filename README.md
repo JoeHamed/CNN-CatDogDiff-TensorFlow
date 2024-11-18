@@ -13,3 +13,5 @@ dataset/
 └── test_set/  
     ├── cats/  
     └── dogs/  
+## Installation
+1. Clone the repository:
